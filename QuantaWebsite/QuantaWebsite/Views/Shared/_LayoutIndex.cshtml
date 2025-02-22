@@ -90,8 +90,12 @@
                                             <li class="@((ViewContext.RouteData.Values["controller"]?.ToString() == "Applications" && ViewContext.RouteData.Values["action"]?.ToString() == "Index") ? "current dropdown" : "")">
                                                 <a asp-controller="Applications" asp-action="Index">Tuyển dụng</a>
                                             </li>
-                                            <li><a href="contact.html">Về chúng tôi</a></li>
-                                            <li><a href="contact.html">Liên hệ</a></li>
+                                            <li class="@((ViewContext.RouteData.Values["controller"]?.ToString() == "About" && ViewContext.RouteData.Values["action"]?.ToString() == "Index") ? "current dropdown" : "")">
+                                                <a asp-controller="About" asp-action="Index">Về chúng tôi</a>
+                                            </li>
+                                            <li class="@((ViewContext.RouteData.Values["controller"]?.ToString() == "Contact" && ViewContext.RouteData.Values["action"]?.ToString() == "Index") ? "current dropdown" : "")">
+                                                <a asp-controller="Contact" asp-action="Index">Liên hệ</a>
+                                            </li>
                                         </ul>
                                     </div>
                                 </nav>

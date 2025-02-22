@@ -1,927 +1,927 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuantaWebsite.bundle.scp.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuantaWebsite.bundle.scp.css",
       "PackagePath": "staticwebassets\\QuantaWebsite.xqjcybw9xy.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\animate.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\animate.css",
       "PackagePath": "staticwebassets\\css\\animate.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\custom-animate.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\custom-animate.css",
       "PackagePath": "staticwebassets\\css\\custom-animate.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\flaticon.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\flaticon.css",
       "PackagePath": "staticwebassets\\css\\flaticon.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\fontawesome-all.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\fontawesome-all.css",
       "PackagePath": "staticwebassets\\css\\fontawesome-all.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\hover.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\hover.css",
       "PackagePath": "staticwebassets\\css\\hover.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\images\\ui-icons_444444_256x240.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\images\\ui-icons_444444_256x240.png",
       "PackagePath": "staticwebassets\\css\\images\\ui-icons_444444_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\images\\ui-icons_555555_256x240.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\images\\ui-icons_555555_256x240.png",
       "PackagePath": "staticwebassets\\css\\images\\ui-icons_555555_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\images\\ui-icons_777620_256x240.html",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\images\\ui-icons_777620_256x240.html",
       "PackagePath": "staticwebassets\\css\\images\\ui-icons_777620_256x240.html"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\images\\ui-icons_cc0000_256x240.html",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\images\\ui-icons_cc0000_256x240.html",
       "PackagePath": "staticwebassets\\css\\images\\ui-icons_cc0000_256x240.html"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\jquery-ui.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\jquery-ui.css",
       "PackagePath": "staticwebassets\\css\\jquery-ui.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\jquery.fancybox.min.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\jquery.fancybox.min.css",
       "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\mCSB_buttons.html",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\mCSB_buttons.html",
       "PackagePath": "staticwebassets\\css\\mCSB_buttons.html"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\owl.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\owl.css",
       "PackagePath": "staticwebassets\\css\\owl.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\owl.video.play.html",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\owl.video.play.html",
       "PackagePath": "staticwebassets\\css\\owl.video.play.html"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\responsive.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\scrollbar.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\scrollbar.css",
       "PackagePath": "staticwebassets\\css\\scrollbar.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\simple-line-icons.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\simple-line-icons.css",
       "PackagePath": "staticwebassets\\css\\simple-line-icons.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\themify-icons.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\css\\themify-icons.css",
       "PackagePath": "staticwebassets\\css\\themify-icons.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Flaticon.eot",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Flaticon.eot",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Flaticon.svg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Flaticon.svg",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Flaticon.ttf",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Flaticon.ttf",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Flaticon.woff",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Flaticon.woff",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Flaticon.woff2",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Flaticon.woff2",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.woff2"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Simple-Line-Iconsb26c.eot",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Simple-Line-Iconsb26c.eot",
       "PackagePath": "staticwebassets\\fonts\\Simple-Line-Iconsb26c.eot"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Simple-Line-Iconsb26c.svg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Simple-Line-Iconsb26c.svg",
       "PackagePath": "staticwebassets\\fonts\\Simple-Line-Iconsb26c.svg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Simple-Line-Iconsb26c.ttf",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Simple-Line-Iconsb26c.ttf",
       "PackagePath": "staticwebassets\\fonts\\Simple-Line-Iconsb26c.ttf"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Simple-Line-Iconsb26c.woff",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Simple-Line-Iconsb26c.woff",
       "PackagePath": "staticwebassets\\fonts\\Simple-Line-Iconsb26c.woff"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Simple-Line-Iconsb26c.woff2",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\Simple-Line-Iconsb26c.woff2",
       "PackagePath": "staticwebassets\\fonts\\Simple-Line-Iconsb26c.woff2"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-brands-400d41d.eot",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-brands-400d41d.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400d41d.eot"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-regular-400d41d.eot",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-regular-400d41d.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400d41d.eot"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-solid-900d41d.eot",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\fa-solid-900d41d.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900d41d.eot"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\themify9f24.eot",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\themify9f24.eot",
       "PackagePath": "staticwebassets\\fonts\\themify9f24.eot"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\themify9f24.svg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\themify9f24.svg",
       "PackagePath": "staticwebassets\\fonts\\themify9f24.svg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\themify9f24.ttf",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\themify9f24.ttf",
       "PackagePath": "staticwebassets\\fonts\\themify9f24.ttf"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\themify9f24.woff",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\themify9f24.woff",
       "PackagePath": "staticwebassets\\fonts\\themify9f24.woff"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\themifyd41d.eot",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\fonts\\themifyd41d.eot",
       "PackagePath": "staticwebassets\\fonts\\themifyd41d.eot"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\background\\banner-bg-1.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\background\\banner-bg-1.jpg",
       "PackagePath": "staticwebassets\\images\\background\\banner-bg-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\background\\banner-bg-2.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\background\\banner-bg-2.jpg",
       "PackagePath": "staticwebassets\\images\\background\\banner-bg-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\background\\image-1.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\background\\image-1.jpg",
       "PackagePath": "staticwebassets\\images\\background\\image-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\background\\image-2.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\background\\image-2.jpg",
       "PackagePath": "staticwebassets\\images\\background\\image-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\background\\image-3.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\background\\image-3.jpg",
       "PackagePath": "staticwebassets\\images\\background\\image-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\background\\pattern-2.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\background\\pattern-2.png",
       "PackagePath": "staticwebassets\\images\\background\\pattern-2.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\1.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\1.jpg",
       "PackagePath": "staticwebassets\\images\\clients\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\10.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\10.jpg",
       "PackagePath": "staticwebassets\\images\\clients\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\2.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\2.jpg",
       "PackagePath": "staticwebassets\\images\\clients\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\3.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\3.jpg",
       "PackagePath": "staticwebassets\\images\\clients\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\4.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\4.jpg",
       "PackagePath": "staticwebassets\\images\\clients\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\5.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\5.jpg",
       "PackagePath": "staticwebassets\\images\\clients\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\6.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\6.jpg",
       "PackagePath": "staticwebassets\\images\\clients\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\7.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\7.jpg",
       "PackagePath": "staticwebassets\\images\\clients\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\8.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\8.jpg",
       "PackagePath": "staticwebassets\\images\\clients\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\9.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\clients\\9.jpg",
       "PackagePath": "staticwebassets\\images\\clients\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\favicon.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\favicon.png",
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\footer-logo.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\footer-logo.png",
       "PackagePath": "staticwebassets\\images\\footer-logo.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\icon-lang.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\icon-lang.png",
       "PackagePath": "staticwebassets\\images\\icons\\icon-lang.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\image-bg.svg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\image-bg.svg",
       "PackagePath": "staticwebassets\\images\\icons\\image-bg.svg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\map-marker-2.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\map-marker-2.png",
       "PackagePath": "staticwebassets\\images\\icons\\map-marker-2.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\map-marker-3.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\map-marker-3.png",
       "PackagePath": "staticwebassets\\images\\icons\\map-marker-3.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\map-marker.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\map-marker.png",
       "PackagePath": "staticwebassets\\images\\icons\\map-marker.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\map-pattern-three.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\map-pattern-three.png",
       "PackagePath": "staticwebassets\\images\\icons\\map-pattern-three.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\map-pattern-two.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\map-pattern-two.png",
       "PackagePath": "staticwebassets\\images\\icons\\map-pattern-two.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\map-pattern.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\map-pattern.png",
       "PackagePath": "staticwebassets\\images\\icons\\map-pattern.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\pattern-1.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\pattern-1.png",
       "PackagePath": "staticwebassets\\images\\icons\\pattern-1.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\preloader.svg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\preloader.svg",
       "PackagePath": "staticwebassets\\images\\icons\\preloader.svg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\round-pattern-1.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\round-pattern-1.png",
       "PackagePath": "staticwebassets\\images\\icons\\round-pattern-1.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\1.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\1.png",
       "PackagePath": "staticwebassets\\images\\icons\\services\\1.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\2.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\2.png",
       "PackagePath": "staticwebassets\\images\\icons\\services\\2.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\3.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\3.png",
       "PackagePath": "staticwebassets\\images\\icons\\services\\3.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\4.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\4.png",
       "PackagePath": "staticwebassets\\images\\icons\\services\\4.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\5.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\5.png",
       "PackagePath": "staticwebassets\\images\\icons\\services\\5.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\6.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\6.png",
       "PackagePath": "staticwebassets\\images\\icons\\services\\6.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\7.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\7.png",
       "PackagePath": "staticwebassets\\images\\icons\\services\\7.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\8.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\services\\8.png",
       "PackagePath": "staticwebassets\\images\\icons\\services\\8.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\theme-icon-2.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\theme-icon-2.png",
       "PackagePath": "staticwebassets\\images\\icons\\theme-icon-2.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\theme-icon-3.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\theme-icon-3.png",
       "PackagePath": "staticwebassets\\images\\icons\\theme-icon-3.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\theme-icon-4.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\theme-icon-4.png",
       "PackagePath": "staticwebassets\\images\\icons\\theme-icon-4.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\theme-icon-5.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\theme-icon-5.png",
       "PackagePath": "staticwebassets\\images\\icons\\theme-icon-5.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\theme-icon.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\icons\\theme-icon.png",
       "PackagePath": "staticwebassets\\images\\icons\\theme-icon.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\logo.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\logoquanta.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\logoquanta.png",
       "PackagePath": "staticwebassets\\images\\logoquanta.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\1.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\1.jpg",
       "PackagePath": "staticwebassets\\images\\main-slider\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\2.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\2.jpg",
       "PackagePath": "staticwebassets\\images\\main-slider\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\3.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\3.jpg",
       "PackagePath": "staticwebassets\\images\\main-slider\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\banner-curve-two.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\banner-curve-two.png",
       "PackagePath": "staticwebassets\\images\\main-slider\\banner-curve-two.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\banner-curve.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\banner-curve.png",
       "PackagePath": "staticwebassets\\images\\main-slider\\banner-curve.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\content-image-1.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\content-image-1.png",
       "PackagePath": "staticwebassets\\images\\main-slider\\content-image-1.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\content-image-2.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\content-image-2.png",
       "PackagePath": "staticwebassets\\images\\main-slider\\content-image-2.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\round-box.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\main-slider\\round-box.png",
       "PackagePath": "staticwebassets\\images\\main-slider\\round-box.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\nav-logo.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\nav-logo.png",
       "PackagePath": "staticwebassets\\images\\nav-logo.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\quanta_CongNhan.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\quanta_CongNhan.jpg",
       "PackagePath": "staticwebassets\\images\\quanta_CongNhan.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\quanta_KySu.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\quanta_KySu.jpg",
       "PackagePath": "staticwebassets\\images\\quanta_KySu.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\about-image-1.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\about-image-1.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\about-image-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\about-image-2.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\about-image-2.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\about-image-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\about-image-3.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\about-image-3.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\about-image-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\about-image-4.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\about-image-4.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\about-image-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\about-logo-image.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\about-logo-image.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\about-logo-image.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\author-thumb-1.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\author-thumb-1.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\author-thumb-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\author-thumb-2.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\author-thumb-2.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\author-thumb-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\author-thumb-3.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\author-thumb-3.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\author-thumb-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\author-thumb-4.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\author-thumb-4.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\author-thumb-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\author-thumb-5.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\author-thumb-5.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\author-thumb-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\author-thumb-6.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\author-thumb-6.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\author-thumb-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-1.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-1.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-10.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-10.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-10.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-11.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-11.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-11.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-12.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-12.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-12.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-13.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-13.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-13.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-14.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-14.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-14.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-15.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-15.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-15.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-16.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-16.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-16.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-2.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-2.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-3.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-3.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-4.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-4.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-5.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-5.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-6.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-6.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-7.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-7.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-7.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-8.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-8.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-8.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-9.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\blog-image-9.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\blog-image-9.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-1.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-1.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\case-image-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-2.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-2.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\case-image-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-3.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-3.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\case-image-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-4.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-4.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\case-image-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-5.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-5.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\case-image-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-6.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-6.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\case-image-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-7.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-7.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\case-image-7.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-8.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-8.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\case-image-8.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-9.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\case-image-9.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\case-image-9.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\featured-image-1.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\featured-image-1.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\featured-image-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\featured-image-2.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\featured-image-2.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\featured-image-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\featured-image-3.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\featured-image-3.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\featured-image-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\featured-image-4.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\featured-image-4.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\featured-image-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\featured-image-5.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\featured-image-5.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\featured-image-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\featured-image-6.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\featured-image-6.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\featured-image-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\post-thumb-1.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\post-thumb-1.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\post-thumb-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\post-thumb-2.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\post-thumb-2.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\post-thumb-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\post-thumb-3.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\post-thumb-3.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\post-thumb-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\service-single-image.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\service-single-image.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\service-single-image.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\team-image-1.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\team-image-1.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\team-image-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\team-image-2.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\team-image-2.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\team-image-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\team-image-3.jpg",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\resource\\team-image-3.jpg",
       "PackagePath": "staticwebassets\\images\\resource\\team-image-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\sticky-logo.png",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\images\\sticky-logo.png",
       "PackagePath": "staticwebassets\\images\\sticky-logo.png"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\appear.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\appear.js",
       "PackagePath": "staticwebassets\\js\\appear.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\custom-script.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\custom-script.js",
       "PackagePath": "staticwebassets\\js\\custom-script.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\jquery-ui.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\jquery-ui.js",
       "PackagePath": "staticwebassets\\js\\jquery-ui.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\jquery.fancybox.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\jquery.fancybox.js",
       "PackagePath": "staticwebassets\\js\\jquery.fancybox.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\jquery.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\jquery.js",
       "PackagePath": "staticwebassets\\js\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\map-script.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\map-script.js",
       "PackagePath": "staticwebassets\\js\\map-script.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\owl.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\owl.js",
       "PackagePath": "staticwebassets\\js\\owl.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\popper.min.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\scrollbar.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\scrollbar.js",
       "PackagePath": "staticwebassets\\js\\scrollbar.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\validate.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\validate.js",
       "PackagePath": "staticwebassets\\js\\validate.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\wow.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\js\\wow.js",
       "PackagePath": "staticwebassets\\js\\wow.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

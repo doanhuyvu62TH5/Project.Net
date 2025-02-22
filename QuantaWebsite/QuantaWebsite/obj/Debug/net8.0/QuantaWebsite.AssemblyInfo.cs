@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuantaWebsite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a1dcdc73a781cdafdbd25d6a7ecd96c7a73fd28")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuantaWebsite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuantaWebsite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

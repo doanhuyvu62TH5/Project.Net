@@ -1,22 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\",
+  "WorkspaceRootPath": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\quantawebsite\\quantawebsite\\views\\applications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|solutionrelative:quantawebsite\\views\\applications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\project.net\\quantawebsite\\quantawebsite\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|solutionrelative:quantawebsite\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\quantawebsite\\quantawebsite\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\project.net\\quantawebsite\\quantawebsite\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|solutionrelative:quantawebsite\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\project.net\\quantawebsite\\quantawebsite\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|solutionrelative:quantawebsite\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\project.net\\quantawebsite\\quantawebsite\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|solutionrelative:quantawebsite\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\quantawebsite\\quantawebsite\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\project.net\\quantawebsite\\quantawebsite\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|solutionrelative:quantawebsite\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\project.net\\quantawebsite\\quantawebsite\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|solutionrelative:quantawebsite\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\quantawebsite\\quantawebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\project.net\\quantawebsite\\quantawebsite\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|solutionrelative:quantawebsite\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\project.net\\quantawebsite\\quantawebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|solutionrelative:quantawebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\project.net\\quantawebsite\\quantawebsite\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|solutionrelative:quantawebsite\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\project.net\\quantawebsite\\quantawebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|solutionrelative:quantawebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\project.net\\quantawebsite\\quantawebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|solutionrelative:quantawebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\project.net\\quantawebsite\\quantawebsite\\views\\applications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|solutionrelative:quantawebsite\\views\\applications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|c:\\users\\huy vu\\downloads\\project\\project.net\\quantawebsite\\quantawebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCD6E21-1AB6-4D58-B81B-ED843FF4B7C3}|QuantaWebsite\\QuantaWebsite.csproj|solutionrelative:quantawebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +62,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\Views\\Applications\\Index.cshtml",
-              "RelativeDocumentMoniker": "QuantaWebsite\\Views\\Applications\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\Views\\Applications\\Index.cshtml",
-              "RelativeToolTip": "QuantaWebsite\\Views\\Applications\\Index.cshtml",
+              "DocumentIndex": 1,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "QuantaWebsite\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "QuantaWebsite\\Controllers\\ContactController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T09:13:01.267Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:19:48.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "QuantaWebsite\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "QuantaWebsite\\Views\\About\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuantaWebsite\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "QuantaWebsite\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T09:12:57.956Z",
+              "WhenOpened": "2025-02-22T07:18:40.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "QuantaWebsite\\Controllers\\ApplicationsController.cs",
+              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "QuantaWebsite\\Controllers\\ApplicationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:12:34.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "QuantaWebsite\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "QuantaWebsite\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:12:33.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "QuantaWebsite\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "QuantaWebsite\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGAAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T07:11:28.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuantaWebsite\\Views\\News\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "QuantaWebsite\\Views\\News\\Index.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowDgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T07:09:05.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QuantaWebsite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QuantaWebsite\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:12:41.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "NewsController.cs",
-              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\Controllers\\NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Controllers\\NewsController.cs",
               "RelativeDocumentMoniker": "QuantaWebsite\\Controllers\\NewsController.cs",
-              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Controllers\\NewsController.cs",
               "RelativeToolTip": "QuantaWebsite\\Controllers\\NewsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,14 +171,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "QuantaWebsite\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\QuantaWebsite\\QuantaWebsite\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "QuantaWebsite\\Controllers\\HomeController.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuantaWebsite\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "QuantaWebsite\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T09:12:57.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "QuantaWebsite\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "QuantaWebsite\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T09:12:41.777Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T07:10:22.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "QuantaWebsite\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "QuantaWebsite\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T07:10:25.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuantaWebsite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QuantaWebsite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T07:10:16.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\Applications\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuantaWebsite\\Views\\Applications\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huy Vu\\Downloads\\project\\Project.Net\\QuantaWebsite\\QuantaWebsite\\Views\\Applications\\Index.cshtml",
+              "RelativeToolTip": "QuantaWebsite\\Views\\Applications\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T09:13:01.267Z",
               "EditorCaption": ""
             },
             {

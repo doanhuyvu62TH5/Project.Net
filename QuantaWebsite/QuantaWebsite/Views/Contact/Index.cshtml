@@ -1,5 +1,46 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@{
+    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
 }
+
+<div class="container my-5">
+    <div class="row">
+        <!-- Thông tin liên hệ -->
+        <div class="col-lg-6">
+            <h2 class="mb-4">Liên Hệ Quantar Computer</h2>
+            <p><strong>Địa chỉ:</strong> Số XX, Đường XYZ, Nam Định</p>
+            <p><strong>Số điện thoại:</strong> 0123 456 789</p>
+            <p><strong>Email:</strong> contact@quantar.vn</p>
+            <p><strong>Giờ làm việc:</strong> 08:00 - 17:30 (Thứ 2 - Thứ 7)</p>
+        </div>
+
+        <!-- Bản đồ -->
+        <div class="col-lg-6">
+            <h2 class="mb-4">Bản đồ</h2>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.8218149255994!2d105.84179981540666!3d21.00218539406633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab8aa4c88ab5%3A0xf9a8a838d1a4c5a3!2sNam%20Định!5e0!3m2!1sen!2s!4v1629719234561!5m2!1sen!2s"
+                    width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+    </div>
+
+    <!-- Form liên hệ -->
+    <div class="row mt-5">
+        <div class="col-lg-8 mx-auto">
+            <h2 class="text-center mb-4">Gửi Tin Nhắn</h2>
+            <form>
+                <div class="mb-3">
+                    <label for="name" class="form-label">Họ và tên</label>
+                    <input type="text" class="form-control" id="name" placeholder="Nhập họ và tên" required>
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="email" placeholder="Nhập email" required>
+                </div>
+                <div class="mb-3">
+                    <label for="message" class="form-label">Nội dung</label>
+                    <textarea class="form-control" id="message" rows="5" placeholder="Nhập nội dung liên hệ" required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Gửi Tin Nhắn</button>
+            </form>
+        </div>
+    </div>
+</div>
+
